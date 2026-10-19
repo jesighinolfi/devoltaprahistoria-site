@@ -1,0 +1,6 @@
+body{margin:0;background:#120e0a;color:#efe7da;font:18px/1.6 Georgia,serif}
+main{max-width:720px;margin:0 auto;padding:48px 24px}
+h1{font-family:Didot,"Bodoni 72",Georgia,serif;color:#e8c478;letter-spacing:.04em;font-weight:normal}
+h2{color:#e8c478;font-weight:normal}a{color:#e8c478}
+img{width:160px;height:160px;border-radius:50%;border:3px solid #e8c478;object-fit:cover}
+footer{margin-top:48px;font-size:14px;opacity:.7}
